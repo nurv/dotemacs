@@ -1,0 +1,4 @@
+#name : (defun name ())
+# --
+(defun ${1:name} ($2)
+    $3)

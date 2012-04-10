@@ -1,0 +1,4 @@
+#name : (defmacro name ())
+# --
+(defmacro ${1:name} ($2)
+    $3)

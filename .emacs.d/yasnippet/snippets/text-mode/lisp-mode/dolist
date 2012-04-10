@@ -1,0 +1,4 @@
+#name : (dolist (obj lst))
+# --
+(dolist (${1:obj} ${2:lst}) 
+	$3)

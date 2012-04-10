@@ -1,0 +1,4 @@
+#name : (dotimes name ())
+# --
+(dotimes (${1:iterator} ${2:limit} ${3:limit})
+	$4)
